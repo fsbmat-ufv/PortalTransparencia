@@ -1,0 +1,12 @@
+name: LicitacoesUFV
+title: LicitacoesUFV
+username:
+account: maf172
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2862920
+bundleId: 3835980
+url: https://maf172.shinyapps.io/LicitacoesUFV/
+when: 1604893790.74729
+asMultiple: FALSE
+asStatic: FALSE
